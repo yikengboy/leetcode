@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="$file.fileName&#10;Copyright $today.year Qunhe Tech, all rights reserved.&#10;Qunhe PROPRIETARY/CONFIDENTIAL, any form of usage is subject to approval." />
+    <option name="myName" value="酷家乐标准 Copyright" />
+  </copyright>
+</component>
