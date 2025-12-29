@@ -1,7 +1,13 @@
-package com.yikengboy.solutions.easy;
+/*
+ * RemoveLinkedTable.java
+ * Copyright 2025 Qunhe Tech, all rights reserved.
+ * Qunhe PROPRIETARY/CONFIDENTIAL, any form of usage is subject to approval.
+ */
 
-/// [题目链接](https://leetcode.cn/problems/remove-linked-list-elements/description/)
-public class RemoveLinkedTable {
+package com.yikengboy.linkedList;
+
+/// 移除链表元素 [题目链接](https://leetcode.cn/problems/remove-linked-list-elements/description/)
+public class RemoveLinkedList {
 
     /**
      * Definition for singly-linked list.
@@ -27,22 +33,5 @@ public class RemoveLinkedTable {
             }
         }
         return header.next;
-    }
-
-    public static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode() {
-        }
-
-        ListNode(int val) {
-            this.val = val;
-        }
-
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
     }
 }

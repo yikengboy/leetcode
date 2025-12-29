@@ -23,13 +23,14 @@
 ## 按标签分类
 
 ### 数组 (Array)
-- [1. Two Sum](../src/main/java/com/yikengboy/solutions/easy/P1_TwoSum.java) - `P1_TwoSum.java`
+- 待添加
 
 ### 字符串 (String)
 - 待添加
 
 ### 链表 (Linked List)
-- 待添加
+- [移除链表元素](src/main/java/com/yikengboy/linkedList/RemoveLinkedTable.java) 
+
 
 ### 树 (Tree)
 - 待添加
