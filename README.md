@@ -29,7 +29,7 @@
 - 待添加
 
 ### 链表 (Linked List)
-- [移除链表元素](src/main/java/com/yikengboy/linkedList/RemoveLinkedTable.java) 
+- [移除链表元素](src/main/java/com/yikengboy/listnode/RemoveLinkedTable.java) 
 
 
 ### 树 (Tree)

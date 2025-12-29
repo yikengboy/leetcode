@@ -4,7 +4,7 @@
  * Qunhe PROPRIETARY/CONFIDENTIAL, any form of usage is subject to approval.
  */
 
-package com.yikengboy.linkedList;
+package com.yikengboy.listnode;
 
 /// 删除链表倒数第 N 个节点 [题干链接](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/)
 public class RemoveNthFromEnd {

@@ -4,7 +4,7 @@
  * Qunhe PROPRIETARY/CONFIDENTIAL, any form of usage is subject to approval.
  */
 
-package com.yikengboy.linkedList;
+package com.yikengboy.listnode;
 
 import junit.framework.TestCase;
 

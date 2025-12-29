@@ -4,7 +4,7 @@
  * Qunhe PROPRIETARY/CONFIDENTIAL, any form of usage is subject to approval.
  */
 
-package com.yikengboy.linkedList;
+package com.yikengboy.listnode;
 
 /// 移除链表元素 [题目链接](https://leetcode.cn/problems/remove-linked-list-elements/description/)
 public class RemoveLinkedList {

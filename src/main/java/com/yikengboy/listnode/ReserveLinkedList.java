@@ -4,7 +4,7 @@
  * Qunhe PROPRIETARY/CONFIDENTIAL, any form of usage is subject to approval.
  */
 
-package com.yikengboy.linkedList;
+package com.yikengboy.listnode;
 
 /// 反转链表 [题干链接](https://leetcode.cn/problems/reverse-linked-list/description/)
 public class ReserveLinkedList {
