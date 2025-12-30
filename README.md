@@ -4,6 +4,9 @@
 
 - [二方查找](src/main/java/com/yikengboy/array/ErFenSearch.java)
 - [有序数组的平方](src/main/java/com/yikengboy/array/SortedSquares.java)
+- [长度最小的子数组](src/main/java/com/yikengboy/array/MinSubArrayLen.java)
+- [螺旋数组](src/main/java/com/yikengboy/array/GenerateMatrix.java)
+- 
 
 ### 字符串 (String)
 

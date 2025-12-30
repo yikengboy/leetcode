@@ -7,6 +7,7 @@
 package com.yikengboy.array;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 /// 有序数组的平方 [题干链接](https://leetcode.cn/problems/squares-of-a-sorted-array/description/)
 public class SortedSquares {
