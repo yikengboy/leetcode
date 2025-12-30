@@ -3,6 +3,7 @@
 ### 数组 (Array)
 
 - [二方查找](src/main/java/com/yikengboy/array/ErFenSearch.java)
+- [有序数组的平方](src/main/java/com/yikengboy/array/SortedSquares.java)
 
 ### 字符串 (String)
 
